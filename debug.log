@@ -1,0 +1,10 @@
+[1011/150629.245:ERROR:settings.cc(430)] Settings version is not 5
+[1011/152139.341:ERROR:filesystem_win.cc(129)] GetFileAttributes C:\Users\krasn\AppData\Local\Microsoft\Edge\User Data\Crashpad\attachments\8ae2c330-f849-4e3d-858d-e63e75f96c64: Системе не удается найти указанный путь. (0x3)
+[1011/152139.341:ERROR:filesystem_win.cc(129)] GetFileAttributes C:\Users\krasn\AppData\Local\Microsoft\Edge\User Data\Crashpad\attachments\8cd11dc9-438c-40d8-b73e-57e29e087a95: Системе не удается найти указанный путь. (0x3)
+[1011/152139.357:ERROR:filesystem_win.cc(129)] GetFileAttributes C:\Users\krasn\AppData\Local\Microsoft\Edge\User Data\Crashpad\attachments\917aad15-4a38-4bef-88bd-26d98c716a13: Системе не удается найти указанный путь. (0x3)
+[1011/152139.357:ERROR:directory_reader_win.cc(43)] FindFirstFile: Системе не удается найти указанный путь. (0x3)
+[1016/142626.275:ERROR:directory_reader_win.cc(43)] FindFirstFile: Системе не удается найти указанный путь. (0x3)
+[1016/151141.596:ERROR:directory_reader_win.cc(43)] FindFirstFile: Системе не удается найти указанный путь. (0x3)
+[1016/153026.675:ERROR:directory_reader_win.cc(43)] FindFirstFile: Системе не удается найти указанный путь. (0x3)
+[1016/165644.155:ERROR:directory_reader_win.cc(43)] FindFirstFile: Системе не удается найти указанный путь. (0x3)
+[1020/135253.271:ERROR:directory_reader_win.cc(43)] FindFirstFile: Системе не удается найти указанный путь. (0x3)
